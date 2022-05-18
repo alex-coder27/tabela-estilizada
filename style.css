@@ -1,0 +1,22 @@
+.produtos-moda {
+    background-color: #BB86FC;
+    color: #ffffff;
+}
+
+.produtos-casa {
+    background-color: #00C4B4;
+    color: #ffffff;
+}
+
+.cabecalho {
+    padding: 5px;
+}
+
+.produtos {
+    background-color: #424250;
+    color: #ffffff;
+}
+
+.produtos .produto-individual {
+    padding: 5px;
+}
