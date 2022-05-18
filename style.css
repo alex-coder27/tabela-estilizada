@@ -8,15 +8,11 @@
     color: #ffffff;
 }
 
-.cabecalho {
-    padding: 5px;
-}
-
 .produtos {
     background-color: #424250;
     color: #ffffff;
 }
 
-.produtos .produto-individual {
+.item {
     padding: 5px;
 }
